@@ -1,3 +1,6 @@
 # Academic CV
 
-This repo contains my academic CV, available as a [PDF](cv-gboeing.pdf). It generally conforms to Karen Kelsky's guidelines, with some tweaks for clearer information presentation and nicer typography.
+This repository contains my academic CV.
+
+The CV is build on the CV of Geoff Boeing https://github.com/gboeing/cv ..
+
